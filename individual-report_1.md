@@ -12,7 +12,7 @@
   1- reserve.
  
 ### 2023-11-04
- 
+ <p>
 - Designed a class for Books that contains the following functions:
   1- setAuthor: Setter method for the author.
   2- setPageCount: Setter method for the page count.
@@ -26,7 +26,8 @@
   10- searchByAuther: Method to search by Auther.
   11- searchByGenre: Method to search by Genre.
   12- searchByPublictionDate: Method to search by Publiction Date.
-  
+ </p>
+ 
 ### 2023-11-08
 - Fixed an error related to searching for items.
   

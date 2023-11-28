@@ -15,16 +15,27 @@
  <p>
 - Designed a class for Books that contains the following functions:
   1- setAuthor: Setter method for the author.
+  
   2- setPageCount: Setter method for the page count.
+  
   3- setGenre: Setter method for the genre.
+  
   4- getAuthor: Getter method for the author.
+  
   5- getPageCount: Getter method for the page count.
+  
   6- getGenre: Getter method for the genre.
+  
   7- checkOut: Method to check out books.
+  
   8- returnItem: Method to return an item.
+
   9- searchByTitle: Method to search by title.
+  
   10- searchByAuther: Method to search by Auther.
+  
   11- searchByGenre: Method to search by Genre.
+  
   12- searchByPublictionDate: Method to search by Publiction Date.
  </p>
  

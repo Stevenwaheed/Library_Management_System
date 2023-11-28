@@ -22,7 +22,7 @@
   
   2- setPublicationDate: Getter method for the Publication Date.
 
-  3- getTitle: Setter method for the Title.
+  3- getTitle: Getter method for the Title.
   
   4- getPublicationDate: Getter method for the Publication Date.
 

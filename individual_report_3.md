@@ -36,7 +36,9 @@
 
 <p>
   Start working on each functions of this program by integrate the team's work and start sort it in a logical way, that perform the following operations:
+ 
   1- adding new books, magazines, newspaper, media and service. 
+  
   2- searching for a specific books, magazines, newspaper, media  and service.
 </p>
 
@@ -44,7 +46,9 @@
 ### 2023-11-15
   <p>
     Start working on each functions of the rest of the program by integrate the team's work and start sort it in a logical way, that perform the following operations:
+   
     1- displaying the available and reservable resources. 
+    
     2- checking out and returning resouces.
   </p>
 
@@ -57,7 +61,9 @@
 ### 2023-11-22
 <p>
   Start fixing the error that appeared in the code like:
+ 
     1- logical errors.
+ 
     2- syntax errors (mismatch data types, undefined functions ... etc)
 
   And finally, handling the runtime errors that make that running program stop while processing a specific operation using try.. catch... statement.

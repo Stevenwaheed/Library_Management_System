@@ -5,15 +5,19 @@
 
 ### 2023-10-30
 - Designed an interface for Borrowable resources that contains the following functions:
+  
   1- checkOut.
+  
   2- returnItem.
 
 - Designed an interface for Reservable resources that contains the following functions:
+  
   1- reserve.
  
 ### 2023-11-04
  <p>
 - Designed a class for Books that contains the following functions:
+  
   1- setAuthor: Setter method for the author.
   
   2- setPageCount: Setter method for the page count.
@@ -43,28 +47,46 @@
 - Fixed an error related to searching for items.
   
 - Designed a class for Magazine that contains the following functions:
+
   1- setPublisher: Setter method for the Publisher.
+  
   2- setIssueNumber: Setter method for the IssueNumber.
+  
   3- setPeriodicity: Setter method for the Periodicity.
+  
   4- getPublisher: Getter method for the Publisher.
+  
   5- getIssueNumber: Getter method for the IssueNumber.
+  
   6- getPeriodicity: Getter method for the Periodicity.
+  
   7- checkOut: Method to check out Magazine.
+  
   8- returnItem: Method to return an item.
+  
   9- searchByTitle: Method to search by title.
+  
   10- searchByPublictionDate: Method to search by Publiction Date.
   
 
  
 ### 2023-11-11
 - Designed a class for Media that contains the following functions:
+  
   1- setFormat: Setter method for the Format.
+  
   2- setSize: Setter method for the Size.
+  
   3- getFormat: Setter method for the Format.
+  
   4- getSize: Setter method for the Size.
+  
   5- checkOut: Method to check out Media.
+  
   6- returnItem:  Method to return an item.
+
   7- searchByTitle: Method to search by title.
+  
   8- searchByPublictionDate: Method to search by Publiction Date.
   
 
@@ -76,19 +98,28 @@
  
 ### 2023-11-23
  
-- Added the following methods in "Book" Class: 
+- Added the following methods in "Book" Class:
+
   1- addBook: add a Book object in a list.
+  
   2- convert: converter to an Object type.
+  
   3- display: display the content of the book lists.
 
-- Added the following methods in "Magazine" Class: 
+- Added the following methods in "Magazine" Class:
+  
   1- addMagazine: add a Magazine object in a list.
+  
   2- convert: converter to an Object type.
+  
   3- display: display the content of the Magazine lists.
 
-- Added the following methods in "Media" Class: 
+- Added the following methods in "Media" Class:
+  
   1- addMedia: add a Media object in a list.
+  
   2- convert: converter to an Object type.
+  
   3- display: display the content of the Media lists.
 
 - Fixed an error related to converting items data types.

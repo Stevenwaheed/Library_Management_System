@@ -50,9 +50,9 @@
   
   2- setCountry: Setter method for the Country.
   
-  3- getPublisher: Setter method for the Publisher.
+  3- getPublisher: Getter method for the Publisher.
   
-  4- getCountry: Setter method for the Country.
+  4- getCountry: Getter method for the Country.
   
   5- checkOut: Method to check out Newspaper.
   

@@ -4,27 +4,27 @@
 
 
 ### 2023-11-3
-- Designed some methods to guide the user such as:
+<p>
+ - Designed some methods to guide the user such as:
+   
+    1- mainMenu: display the main options to the user and get his/her choice.
+    
+    2- newResourcePage: display the options of creating new items or services to the user and get his/her choice.
   
-  1- mainMenu: display the main options to the user and get his/her choice.
+    3- ItemPage: display the main items to the user and get his/her choice.
+    
+    4- bookSearchPage: display the book's search options to the user and get his/her choice.
   
-  2- newResourcePage: display the options of creating new items or services to the user and get his/her choice.
-
-  3- ItemPage: display the main items to the user and get his/her choice.
+    5- itemsSearchPage: display the item's search options to the user and get his/her choice.
+    
+    6- getInfoPage: take the main characters of a specific item.
   
-  4- bookSearchPage: display the book's search options to the user and get his/her choice.
-
-  5- itemsSearchPage: display the item's search options to the user and get his/her choice.
+    7- checkOutOrReturnPage: make the user choose if he/she will check out or return a specific item.
+    
+    8- displayData: display all data in the items' lists.
   
-  6- getInfoPage: take the main characters of a specific item.
-
-  7- checkOutOrReturnPage: make the user choose if he/she will check out or return a specific item.
-  
-  8- displayData: display all data in the items' lists.
-
-  9- displayBookData: display all data of the book' list.
-  
-
+    9- displayBookData: display all data of the book' list.
+ </p>
  
 ### 2023-11-09
 <p>
@@ -37,9 +37,9 @@
 <p>
   Start working on each functions of this program by integrate the team's work and start sort it in a logical way, that perform the following operations:
  
-  1- adding new books, magazines, newspaper, media and service. 
-  
-  2- searching for a specific books, magazines, newspaper, media  and service.
+    1- adding new books, magazines, newspaper, media and service. 
+    
+    2- searching for a specific books, magazines, newspaper, media  and service.
 </p>
 
 

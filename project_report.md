@@ -32,6 +32,7 @@ To search for an item, the user can simply type "search" followed by the item's 
 
 Overall, the system is designed to be easy to use and understand, with clear and concise commands and prompts. The system also includes a variety of features and functionalities to make it more user-friendly and efficient.
 
+![UML](https://github.com/Stevenwaheed/Library_Management_System/assets/83607748/be751bda-ccf5-45b7-b137-ed5d6d354819)
 
 
 ## Issues / Challenges

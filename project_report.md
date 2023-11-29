@@ -2,9 +2,9 @@
  
 ## Team
  
-- Dane Doe <`dd000001@students.qu.edu.qa`>
-- Sane Doe <`sd000002@students.qu.edu.qa`>
-- Zane Doe <`zd000003@students.qu.edu.qa`>
+- Noora Al-Kaabi 202207619 <`dd000001@students.qu.edu.qa`>
+- Aisha Al-Mannai 202209661 <`sd000002@students.qu.edu.qa`>
+- Najla Almohannadi na1805861 <`zd000003@students.qu.edu.qa`>
  
 ## Overview
  
@@ -32,7 +32,7 @@ To search for an item, the user can simply type "search" followed by the item's 
 
 Overall, the system is designed to be easy to use and understand, with clear and concise commands and prompts. The system also includes a variety of features and functionalities to make it more user-friendly and efficient.
 
-![UML](https://github.com/Stevenwaheed/Library_Management_System/assets/83607748/be751bda-ccf5-45b7-b137-ed5d6d354819)
+![UML](https://github.com/Stevenwaheed/Library_Management_System/assets/83607748/3cb0a14b-d2b3-4f8a-ba1a-f4c5d39782f0)
 
 
 ## Issues / Challenges
